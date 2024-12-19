@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Typescript**
 
-- 📫 How to reach me **prashanthchittimalla2@gmail.com**
+- 📫 How to reach me **prashanthchittimalla12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
